@@ -90,7 +90,7 @@ Email: sankakpakavindu09@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 891612548173.dkr.ecr.eu-north-1.amazonaws.com/texts
+    - Save the URI: xxxxxxxxxxxxxxx.dkr.ecr.eu-north-1.amazonaws.com/texts
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
